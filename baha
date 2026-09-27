@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta echo "# carte.assurance-ines.kalai" >> README.md 
+git init 
+git add README.md 
+git commit -m "premier commit" 
+git branch -M main 
+git remote add origin https://github.com/kaliibaha/carte.assurance-ines.kalai.git
+ git push -u origin main
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>carte.assurance.ines/kalai</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<h1>Description carte assurance:</h1>
+	<p>CARTE fut créée en 1976, par le Groupe BNP et le Groupe DOGHRI, en partenariat avec MGF et la Préservatrice.
+
+En 1986, sous l'impulsion de son Président du Conseil d'Administration actuel, Hassine DOGHRI, le Groupe DOGHRI en partenariat avec les Mutuelles du Mans ont pris le contrôle de CARTE.
+
+Aujourd'hui, forte de 45 années d'expérience, CARTE a su, grâce à ses équipes, son réseau d'agents généraux et ses partenaires, marquer de son empreinte le marché des risques de l'entreprise dans lequel elle est le leader, et développer une offre complète pour les besoins des particuliers.</p>
+	<img src="image1.jpg" width="400" height="200">
+	<img src="image2.jpg" width="400" height="200">
+	<h1>les contactes de carte assurance: </h1>
+	<p>Pour cantacter le directeur de cette assurance il faut appeler le numéro suivant:  99280688 </p>
+	
+</body>
+</html>
